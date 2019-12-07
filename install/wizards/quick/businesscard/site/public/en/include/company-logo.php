@@ -1,0 +1,1 @@
+<a href="#SITE_DIR#"><img src="#SITE_DIR#images/logo.png" alt="BusinessCard"></a>

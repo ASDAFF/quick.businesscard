@@ -1,0 +1,1 @@
+<p>Copyright ©2016 <a href="#">BusinessCard</a>. All rights reserved.</p>
